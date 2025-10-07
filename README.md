@@ -5,23 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3bkarino1" alt="3bkarino1" /></a> </p>
 
-I've worked on [Spider Man](https://spider-man.pages.dev/)
-
 - I've worked on [Revive The Dead](https://revive-the-dead.pages.dev/)
 - I've worked on [Health Guide](https://health-guide.pages.dev/)
-- I've worked on [Egypt Progress](https://egypt-progress.pages.dev/)
-- I've worked on [Sign & Shine](https://sign-shine.pages.dev/)
-- I've worked on [Galaxy Wonders](https://galaxy-wonder.pages.dev/)
 - I've worked on [Silent Speak](https://silentspeak.pages.dev/)
-- I've worked on [Ali's Portfolio v2](https://ali-hatem-v2.pages.dev/)
-- I've worked on [SkyWings](https://skywing.pages.dev/)
-- I've worked on [Dashboard](https://dashb0ard.pages.dev/)
-- I've worked on [Health AI Chatbot](https://ai-chatbot-health-guide.pages.dev/)
 - I've worked on [Cosmic Explorer](https://cosmic-explorer.pages.dev/)
-- I've worked on [Dino World](https://dino-world.pages.dev/)
 - I've worked on [Burger Haven](https://burger-haven.pages.dev/)
-- I've worked on [Cine Hub](https://cine--hub.pages.dev)
-- I've worked on [Shawarma Palace](https://shawarma-palace.pages.dev/)
 
 - 👨‍💻 All of my projects are available at [https://ali-hatem.pages.dev/](https://ali-hatem.pages.dev/)
 
