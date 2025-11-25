@@ -1,10 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME">
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I'm+Mohamed+Ellban;Fullstack+.NET+Developer;Welcome+to+my+GitHub!">
-  </a>
-</h1>
 
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
