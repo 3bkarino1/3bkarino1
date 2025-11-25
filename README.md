@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I'm+Mohamed+Ellban;Fullstack+.NET+Developer;Welcome+to+my+GitHub!">
+  </a>
+</h1>
+
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3bkarino1&label=Profile%20views&color=0e75b6&style=flat" alt="3bkarino1" /> </p>
