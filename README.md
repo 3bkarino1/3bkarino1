@@ -20,12 +20,27 @@ Current path: Front-End → System Design → Cloud & Scalable Architectures
 <h3>🧠 Tech Stack</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,github,git,firebase,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github,gcp,firebase,vscode" />
 </p>
 
 <p>
-Always improving skills in modern front-end architecture, API integration, performance optimization,  
-and scalable web applications.
+Front-End developer with hands-on experience in building interactive UI using HTML, CSS, and JavaScript.  
+Comfortable working with React, backend basics using Node.js, and integrating Firebase services.  
+Experienced with GitHub workflows, deployment, and using Google Cloud Platform for hosting and services.
+</p>
+
+<hr/>
+
+<h3>⚙️ Core Skills</h3>
+
+<p>
+- HTML5, CSS3, JavaScript (ES6+)<br/>
+- React.js for UI development<br/>
+- Node.js basics for backend logic<br/>
+- Firebase (Auth, Database, Hosting)<br/>
+- Git & GitHub version control<br/>
+- Google Cloud Platform (basic cloud usage)<br/>
+- VS Code development environment<br/>
 </p>
 
 <hr/>
