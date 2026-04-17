@@ -1,24 +1,43 @@
-<h1 align="center">Hi 👋, I'm Ali Hatem</h1>
+<h2>👋 Hi, I'm 3bkarino1 - Front-End Developer</h2>
 
-<h3 align="center">A passionate frontend developer from Egypt</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3bkarino1&label=Profile%20views&color=0e75b6&style=flat" alt="3bkarino1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3bkarino1" alt="3bkarino1" /></a> </p>
-
-- I've worked on [Revive The Dead](https://revive-the-dead.pages.dev/)
-- I've worked on [Health Guide](https://health-guide.pages.dev/)
-- I've worked on [Silent Speak](https://silentspeak.pages.dev/)
-- I've worked on [Cosmic Explorer](https://cosmic-explorer.pages.dev/)
-- I've worked on [Burger Haven](https://burger-haven.pages.dev/)
-
-- 👨‍💻 All of my projects are available at [https://ali-hatem.pages.dev/](https://ali-hatem.pages.dev/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+Front-End Developer focused on building modern, responsive, and clean web interfaces.  
+I turn ideas into real products using code, design sense, and a bit of chaos in JavaScript 😄
+<br/>
+Current path: Front-End → System Design → Cloud & Scalable Architectures
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p>
+🔥 Explore my <a href="https://your-portfolio-link.com" target="_blank">Portfolio</a>
+<br/>
+🤝 Open to collaborations with Back-End developers and creative builders
+<br/>
+📩 Email: yourmail@gmail.com | 📱 WhatsApp: <a href="https://wa.me/201000000000" target="_blank">Contact Me</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3bkarino1&show_icons=true&locale=en" alt="3bkarino1" /></p>
+<hr/>
+
+<h3>🧠 Tech Stack</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,github,git,firebase,vscode" />
+</p>
+
+<p>
+Always improving skills in modern front-end architecture, API integration, performance optimization,  
+and scalable web applications.
+</p>
+
+<hr/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=3bkarino1&show_icons=true&theme=react&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bkarino1&layout=compact&theme=react&hide_border=true" height="150" />
+<img src="https://streak-stats.demolab.com?user=3bkarino1&theme=react&hide_border=true" height="150" />
+
+</div>
+
+<hr/>
+
+<img src="https://raw.githubusercontent.com/3bkarino1/3bkarino1/output/snake.svg" alt="snake animation" />
