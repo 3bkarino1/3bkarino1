@@ -1,18 +1,14 @@
-<h2>👋 Hi, I'm 3bkarino1 - Front-End Developer</h2>
+<h2>👋 Hi, I'm Ali Hatem - Front-End Developer</h2>
 
 <p>
 Front-End Developer focused on building modern, responsive, and clean web interfaces.  
-I turn ideas into real products using code, design sense, and a bit of chaos in JavaScript 😄
-<br/>
-Current path: Front-End → System Design → Cloud & Scalable Architectures
+I turn ideas into real products using code, design sense.
 </p>
 
 <p>
-🔥 Explore my <a href="https://your-portfolio-link.com" target="_blank">Portfolio</a>
+🔥 Explore my <a href="https://3li.pages.dev/" target="_blank">Portfolio</a>
 <br/>
-🤝 Open to collaborations with Back-End developers and creative builders
-<br/>
-📩 Email: yourmail@gmail.com | 📱 WhatsApp: <a href="https://wa.me/201000000000" target="_blank">Contact Me</a>
+📩 Email: alihatem12.sa@gmail.com | 📱 WhatsApp: <a href="https://wa.me/201050882203" target="_blank">Contact Me</a>
 </p>
 
 <hr/>
@@ -20,14 +16,14 @@ Current path: Front-End → System Design → Cloud & Scalable Architectures
 <h3>🧠 Tech Stack</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github,gcp,firebase,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,github,firebase,vscode" />
 </p>
 
-<p>
+<!--<p>
 Front-End developer with hands-on experience in building interactive UI using HTML, CSS, and JavaScript.  
 Comfortable working with React, backend basics using Node.js, and integrating Firebase services.  
 Experienced with GitHub workflows, deployment, and using Google Cloud Platform for hosting and services.
-</p>
+</p>-->
 
 <hr/>
 
@@ -54,5 +50,3 @@ Experienced with GitHub workflows, deployment, and using Google Cloud Platform f
 </div>
 
 <hr/>
-
-<img src="https://raw.githubusercontent.com/3bkarino1/3bkarino1/output/snake.svg" alt="snake animation" />
