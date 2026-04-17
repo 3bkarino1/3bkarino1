@@ -23,7 +23,7 @@ I turn ideas into real products using code, design sense.
 Front-End developer with hands-on experience in building interactive UI using HTML, CSS, and JavaScript.  
 Comfortable working with React, backend basics using Node.js, and integrating Firebase services.  
 Experienced with GitHub workflows, deployment, and using Google Cloud Platform for hosting and services.
-</p>-->
+</p>
 
 <hr/>
 
@@ -37,7 +37,7 @@ Experienced with GitHub workflows, deployment, and using Google Cloud Platform f
 - Git & GitHub version control<br/>
 - Google Cloud Platform (basic cloud usage)<br/>
 - VS Code development environment<br/>
-</p>
+</p>-->
 
 <hr/>
 
